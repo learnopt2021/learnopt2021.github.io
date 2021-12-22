@@ -63,7 +63,7 @@ The workshop will be hosted at Tactic C, Aloft Shanghai Zhangjiang Haike (上海
 
 The workshop schedule is aligned with 9 AM to 6 PM [UTC+8](https://www.timeanddate.com/worldclock/timezone/utc).
 
-| UTC+8           | Talker   |     Title  |   affiliation |
+| UTC+8           | Talker   |     Title  |   Affiliation |
 | ------------: | 
 | 09:00-09:40 |  Defeng Sun   | Some numerical experiments in solving linear programming approximately using sGS-ADMM and its acceleration | The Hong Kong Polytechnic University |
 | 09:40-10:05 | Amin Banitalebi | ML4CO: Is GCNN All You Need? Graph Convolutional Neural Networks Produce Strong Baselines For Combinatorial Optimization Problems, If Tuned and Trained Properly | Huawei |
