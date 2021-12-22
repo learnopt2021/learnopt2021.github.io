@@ -65,7 +65,7 @@ The workshop schedule is aligned with 11 AM to 8:30 PM [UTC](https://www.timeand
 
 The schedule can also be found on the [workshop virtual site](https://neurips.cc/virtual/2021/workshop/21867).
 
-| UTC           | 
+| UTC+8           | Talk Title  |     Talker  |   affiliation |
 | ------------: | 
 |         19:00 | Introduction and opening remarks |
 |         19:10 | **Invited talk 1**: Ying Wei, "Robust Meta-learning In the Wild" [Q&A](https://app.sli.do/event/eMMD9KMrtvXGVq8MTzTsRs) |
