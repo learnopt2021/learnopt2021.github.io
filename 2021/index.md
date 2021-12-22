@@ -86,7 +86,7 @@ The schedule can also be found on the [workshop virtual site](https://neurips.cc
 
 
 
-## Past Workshops
+<!-- ## Past Workshops
 
 [Workshop on Meta-Learning (MetaLearn 2017) @ NeurIPS 2017](https://meta-learn.github.io/2017/)
 
@@ -94,7 +94,7 @@ The schedule can also be found on the [workshop virtual site](https://neurips.cc
 
 [Workshop on Meta-Learning (MetaLearn 2019) @ NeurIPS 2019](https://meta-learn.github.io/2019/)
 
-[Workshop on Meta-Learning (MetaLearn 2020) @ NeurIPS 2020](https://meta-learn.github.io/2020/)
+[Workshop on Meta-Learning (MetaLearn 2020) @ NeurIPS 2020](https://meta-learn.github.io/2020/) -->
 
 <!--
 ## Sponsors
