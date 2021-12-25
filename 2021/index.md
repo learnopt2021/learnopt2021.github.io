@@ -65,10 +65,10 @@ The workshop schedule is aligned with 9 AM to 6 PM [UTC+8](https://www.timeandda
 
 | UTC+8           | Talker   |     Title  |   Affiliation |
 | ------------: | 
-| 09:00-09:40 |  Defeng Sun   | Some numerical experiments in solving linear programming approximately using sGS-ADMM and its acceleration | The Hong Kong Polytechnic University |
+| 09:00-09:40 |  Defeng Sun   | Some Numerical Experiments in Solving Linear Programming Approximately using sGS-ADMM and Its Acceleration | The Hong Kong Polytechnic University |
 | 09:40-10:05 | Amin Banitalebi | ML4CO: Is GCNN All You Need? Graph Convolutional Neural Networks Produce Strong Baselines For Combinatorial Optimization Problems, If Tuned and Trained Properly | Huawei |
 | 10:05-10:15 | Coffee Break |||
-| 10:15-10:55 |  Qingfu Zhang |  Multiobjective optimization Evolutionary Algorithm based Decomposition |     City University of Hong Kong |
+| 10:15-10:55 |  Qingfu Zhang |  Multiobjective Optimization Evolutionary Algorithm based Decomposition |     City University of Hong Kong |
 | 10:55-11:20 |  Hang Su |     TBD |    Tsinghua University |
 | 11:20-11:45 |  Yang Yu |    TBD |       Nanjing University |
 | 11:45-12:10 |  Chao Qian |  Subset Selection by Pareto Optimization: Theories and Practical Algorithms | Nanjing University  |
@@ -78,7 +78,7 @@ The workshop schedule is aligned with 9 AM to 6 PM [UTC+8](https://www.timeandda
 | 15:05-15:15 |   Coffee Break |||
 | 15:15-15:55 |  Aimin Zhou |   Expensive Multiobjective Optimization by Relation Learning and Prediction |  East China Normal University |
 | 15:55-16:20 |  Yan Zheng |   HyAR: Addressing Discrete-Continuous Action Reinforcement Learning via Hybrid Action Representation |   Tianjing University  |
-| 16:20-18:00 |   Dong Li, Huiling Zhen, Meng Lu, Xihan Li, Zeren Huang |  TBD  | Huawei, Shanghai Jiao Tong University, University College London |
+| 16:20-18:00 |   Huiling Zhen, Meng Lu, Xihan Li, Zeren Huang |  Machine Learning for Solver Optimization  | Huawei, Shanghai Jiao Tong University, University College London |
 
 
 
