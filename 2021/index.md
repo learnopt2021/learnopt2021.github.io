@@ -70,7 +70,7 @@ The workshop schedule is aligned with 9 AM to 6 PM [UTC+8](https://www.timeandda
 | 10:05-10:15 | Coffee Break |||
 | 10:15-10:55 |  Qingfu Zhang |  Multiobjective Optimization Evolutionary Algorithm based Decomposition |     City University of Hong Kong |
 | 10:55-11:20 |  Hang Su |  The Black-box Optimization on Adversarial Learning  |    Tsinghua University |
-| 11:20-11:45 |  Yang Yu |  Learning to Define Problems |       Nanjing University |
+| 11:20-11:45 |   Yang Yu |  Learning to Define Problems |       Nanjing University |
 | 11:45-12:10 |  Chao Qian |  Subset Selection by Pareto Optimization: Theories and Practical Algorithms | Nanjing University  |
 | 12:10-14:00 |  Lunch  | | |
 | 14:00-14:40 |   Xin Xu |   Learning to Optimize |   National University of Defense Technology | 
