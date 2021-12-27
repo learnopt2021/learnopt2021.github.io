@@ -32,7 +32,6 @@ The workshop will be hosted at Tactic C, Aloft Shanghai Zhangjiang Haike (上海
 - [Yan Zheng](https://yanzzzzz.github.io/) (Tianjin University)
 - [Amin Banitalebi](https://abanitalebi.github.io) (Huawei)
 - Zhendong Lei (Huawei)
-- Dong Li (Huawei)
 - Huiling Zhen (Huawei)
 - Meng Lu (Huawei)
 - [Xihan Li](https://snowkylin.github.io/) (University College London)
