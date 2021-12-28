@@ -70,10 +70,10 @@ The workshop schedule is aligned with 9 AM to 6 PM [UTC+8](https://www.timeandda
 | 10:55-11:20 |  Zhendong Lei |  The Problem of Maximum Satisfiability and Its Extension  |  Huawei   |
 | 11:20-11:45 |   Chao Qian |  Subset Selection by Pareto Optimization: Theories and Practical Algorithms |       Nanjing University |
 | 11:45-14:00 |  Lunch  | | |
-| 14:00-14:40 |   Xin Xu |  Reinforcement Learning Methods for Multi-robot Collaborative Decision-Making and Optimal Control  | National University of Defense Technology  | 
+| 14:00-14:40 |  Aimin Zhou |  Expensive Multiobjective Optimization by Relation Learning and Prediction  |   East China Normal University |  
 | 14:40-15:05 |  Hang Su |   The Black-box Optimization on Adversarial Learning |  Tsinghua University  |
 | 15:05-15:15 |   Coffee Break |||
-| 15:15-15:55 |  Aimin Zhou |  Expensive Multiobjective Optimization by Relation Learning and Prediction  |   East China Normal University |
+| 15:15-15:55 |  Xin Xu |  Reinforcement Learning Methods for Multi-robot Collaborative Decision-Making and Optimal Control  | National University of Defense Technology  |
 | 15:55-16:20 |  Yan Zheng |   HyAR: Addressing Discrete-Continuous Action Reinforcement Learning via Hybrid Action Representation |   Tianjing University  |
 | 16:20-17:40 |   Huiling Zhen, Meng Lu, Xihan Li, Zeren Huang |  Machine Learning for Solver Optimization  | Huawei, Shanghai Jiao Tong University, University College London |
 
