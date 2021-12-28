@@ -67,11 +67,11 @@ The workshop schedule is aligned with 9 AM to 6 PM [UTC+8](https://www.timeandda
 | 09:40-10:05 | Amin Banitalebi | ML4CO: Is GCNN All You Need? Graph Convolutional Neural Networks Produce Strong Baselines For Combinatorial Optimization Problems, If Tuned and Trained Properly | Huawei |
 | 10:05-10:15 | Coffee Break |||
 | 10:15-10:55 |  Qingfu Zhang |  Multiobjective Optimization Evolutionary Algorithm based Decomposition |     City University of Hong Kong |
-| 10:55-11:20 |  Hang Su |  The Black-box Optimization on Adversarial Learning  |    Tsinghua University |
+| 10:55-11:20 |  Zhendong Lei |  The Problem of Maximum Satisfiability and Its Extension  |  Huawei   |
 | 11:20-11:45 |   Chao Qian |  Subset Selection by Pareto Optimization: Theories and Practical Algorithms |       Nanjing University |
 | 11:45-14:00 |  Lunch  | | |
 | 14:00-14:40 |   Xin Xu |   Reinforcement Learning Methods for Multi-robot Collaborative Decision-Making and Optimal Control |   National University of Defense Technology | 
-| 14:40-15:05 |  Zhendong Lei |   The Problem of Maximum Satisfiability and Its Extension |   Huawei |
+| 14:40-15:05 |  Hang Su |   The Black-box Optimization on Adversarial Learning |  Tsinghua University  |
 | 15:05-15:15 |   Coffee Break |||
 | 15:15-15:55 |  Aimin Zhou |   Expensive Multiobjective Optimization by Relation Learning and Prediction |  East China Normal University |
 | 15:55-16:20 |  Yan Zheng |   HyAR: Addressing Discrete-Continuous Action Reinforcement Learning via Hybrid Action Representation |   Tianjing University  |
