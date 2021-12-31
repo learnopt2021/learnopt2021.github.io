@@ -14,6 +14,9 @@ In recent years, the optimization and computational intelligence methods have ac
 ### Attending the Workshop
 The workshop will be hosted at Tactic C, Aloft Shanghai Zhangjiang Haike (上海张江海科雅乐轩酒店). 
 
+
+Please attend the workshop by following the streaming link: http://live.bilibili.com/6438583
+
 ### Invited Speakers
 
 - [Defeng Sun](https://www.polyu.edu.hk/ama/profile/dfsun/) (The Hong Kong Polytechnic University)
