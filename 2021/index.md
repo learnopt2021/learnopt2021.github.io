@@ -49,7 +49,7 @@ The workshop will be hosted at Tactic C, Aloft Shanghai Zhangjiang Haike (上海
 
 ### Organizers
 
-- [Jianye Hao](http://www.icdai.org/jianye.html) (Tianjing University, Huawei)
+- [Jianye Hao](http://www.icdai.org/jianye.html) (Tianjin University, Huawei)
 - [Weinan Zhang](https://wnzhang.net/) (Shanghai Jiao Tong University)
 - Mingxuan Yuan (Huawei)
 - Dong Li (Huawei)
@@ -74,7 +74,7 @@ The workshop schedule is aligned with 9 AM to 6 PM [UTC+8](https://www.timeandda
 | 14:40-15:05 |  Hang Su |   The Black-box Optimization on Adversarial Learning |  Tsinghua University  |
 | 15:05-15:15 |   Coffee Break |||
 | 15:15-15:55 |  Xin Xu |  Reinforcement Learning Methods for Multi-robot Collaborative Decision-Making and Optimal Control  | National University of Defense Technology  |
-| 15:55-16:20 |  Yan Zheng |   HyAR: Addressing Discrete-Continuous Action Reinforcement Learning via Hybrid Action Representation |   Tianjing University  |
+| 15:55-16:20 |  Yan Zheng |   HyAR: Addressing Discrete-Continuous Action Reinforcement Learning via Hybrid Action Representation |   Tianjin University  |
 | 16:20-17:40 |   Huiling Zhen, Meng Lu, Xihan Li, Zeren Huang |  Machine Learning for Solver Optimization  | Huawei, Shanghai Jiao Tong University, University College London |
 
 
